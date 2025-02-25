@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/kitty-128x128.png" type="image/x-icon">
+  <title>XNA</title>
+	<link rel="canonical" href="https://xnamoon.xyz" />
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/parallax/jarallax.css">
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link href="assets/fonts/style.css" rel="stylesheet">
+  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css">
+  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  <style>
+    @keyframes float-anim {
+      0% {
+        transform: translatey(-20px);
+      }
+      50% {
+        transform: translatey(40px);
+      }
+      100% {
+        transform: translatey(-20px);
+      }
+    }
+    .floating {
+      animation: float-anim 6s ease-in-out infinite;
+      -webkit-user-select: none;
+      -webkit-touch-callout: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+    }
+    .fl-w {
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      align-items: center;
+    }
+    .vbnc {
+      text-shadow: #000 3px 4px 5px
+    }
+    @font-face {
+      font-family: 'Montserrat1';
+      src: url('CinzelDecorative-Bold.ttf');
+      font-weight: 400;
+    }
+    body,
+    html,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    div,
+    span,
+    a,
+    p,
+    div,
+    strong,
+    i,
+    ul,
+    li {
+      font-family: "Montserrat1" !important;
+      color: white !important;
+    }
+  </style>
+</head>
+<body>
+  <section data-bs-version="5.1" class="header9 cid-tCV1CEdSvC mbr-fullscreen mbr-parallax-background" id="header9-d">
+    <div class="text-center container-fluid">
+      <div class="row justify-content-center">
+        <div class="col-md-12 col-lg-9">
+          <div class="image-wrap mb-4">
+            <img src="assets/images/kitty-logo-500x500.png" alt="" class="floating">
+          </div>
+          <h2 class="mb-4 mbr-fonts-style mbr-white display-1 vbnc"><strong style="color: #df3e00;font-size: 5rem;">XNA
+            </strong></h2>
+          <p class="vbnc" style="color: white;">$XNA 🚀Fueling the Future of Crypto, One Meme at a Time! 🧬</p>
+          <p class="vbnc" style="color: white;">Name: XNA <br><br>
+            Symbol: XNA<br><br>
+            Total supply: 42,069,000,000,000,000<br><br>
+            Address: AMvGPNVTjvACeQkqqDUgYggFBKv1XBNcwtAEV8uh1Ev7</p>
+          <div class="mbr-section-btn mt-3"><a class="btn btn-secondary display-7"
+              href="https://v2.raydium.io/swap/?inputCurrency=sol&outputCurrency=AMvGPNVTjvACeQkqqDUgYggFBKv1XBNcwtAEV8uh1Ev7&fixed=in"
+              target="_blank">&nbsp;&nbsp;BUY IT &nbsp;&nbsp;</a>
+            <a class="btn btn-info display-7"
+              href="https://solscan.io/token/AMvGPNVTjvACeQkqqDUgYggFBKv1XBNcwtAEV8uh1Ev7" target="_blank">
+              CHECK IT </a> <a class="btn btn-info display-7"
+              href="https://solscan.io/tx/4w1NoaLusMMGmaCXJjfJvjkxpkn16YreqiZzkrqLAHpfaNFaLAhKupjdXTsjjftJMqxGYvoggSq2rRcfboEhdyBV"
+              target="_blank">
+              LP burned</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section data-bs-version="5.1" class="image2 cid-tFFsaQzosT mbr-parallax-background" id="image2-19">
+    <div class="mbr-overlay" style="opacity: 0.7; background-color: #040023;">
+    </div>
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-12 col-lg-5">
+          <div class="image-wrapper">
+            <img src="assets/images/collection-hello-kitty-logo-4-removebg-preview-1-479x521.png" alt="">
+          </div>
+        </div>
+        <div class="col-12 col-lg">
+          <div class="text-wrapper">
+            <h3 class="mbr-section-title mbr-fonts-style mb-3 display-1"><strong>About XNA</strong></h3>
+            <p class="mbr-text mbr-fonts-style display-7" style="overflow: scroll; height: 300px; padding: 10px;">
+              Introducing $XNA, a revolutionary meme coin that brings a fresh dose of innovation and health to
+              the crypto space! 🧬 Inspired by the political landscape and the potential replacement of SEC Chair Gary
+              Gensler by pro-crypto advocate Paul Atkins, $XNA aims to disrupt the status quo and cure the
+              blockchain ecosystem of inefficiencies. Just like its namesake, XNA is here to combat the outdated
+              systems of traditional finance, bringing a new wave of digital medicine to the blockchain world.
+              <br><br>
+              With the backing of the crypto-savvy Paul Atkins potentially stepping into a key role, $XNA
+              reflects the growing push for regulatory clarity and a more progressive approach to digital assets. Join
+              the movement, take your crypto health to the next level, and be part of a community that’s committed to
+              making blockchain better, stronger, and more resilient. 💊🚀
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section data-bs-version="5.1" class="features10 agencym4_features10 cid-tCW9K3BHjP mbr-parallax-background"
+    id="features10-11">
+    <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(255, 2 a meme toketeam55, 255);">
+    </div>
+    <div class="container">
+      <div class="align-center">
+        <h2 class="mb-4 mbr-fonts-style mbr-white display-1"><strong>XNA Economy</strong></h2>
+        <h3 class="mbr-section-subtitle mbr-fonts-style mb-5 mbr-light mbr-white display-7">
+          Featuring a unique and mesmerizing tokenomics system, XNA rewards holders with precious tokens as they
+          journey through the crypto landscape. Holders will be able to unlock special features and bonuses, making
+          every step of the journey exciting and rewarding.
+          <div>
+            Official Contract: <br><strong>AMvGPNVTjvACeQkqqDUgYggFBKv1XBNcwtAEV8uh1Ev7</strong>
+          </div>
+        </h3>
+        <div class="media-container-row">
+          <div class="card p-3 col-12 col-md-4 col-lg-4">
+            <div class="card-box">
+              <p class="mbr-text mbr-fonts-style mbr-white display-1">
+                0%</p>
+              <p class="card-title mbr-fonts-style mbr-white display-2">
+                <strong>Buy Tax</strong>
+              </p>
+            </div>
+          </div>
+          <div class="card p-3 col-12 col-md-4 col-lg-4">
+            <div class="card-box">
+              <p class="mbr-text mbr-fonts-style mbr-white display-1">
+                0%</p>
+              <p class="card-title mbr-fonts-style mbr-white display-2">
+                <strong>Sell Tax</strong>
+              </p>
+            </div>
+          </div>
+          <div class="card p-3 col-12 col-md-4 col-lg-4">
+            <div class="card-box">
+              <p class="mbr-text mbr-fonts-style mbr-white display-1">
+                42,069,000,000,000,000</p>
+              <p class="card-title mbr-fonts-style mbr-white display-2">
+                <strong>Total Supply</strong>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section data-bs-version="5.1" class="image2 cid-tDHguuxkwS mbr-parallax-background" id="image2-16">
+    <div class="mbr-overlay" style="opacity: 0.5; background-color: #040023;">
+    </div>
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-12 col-lg-4">
+          <div class="image-wrapper">
+            <img src="assets/images/screenshot-2023-05-29-at-17.59.32-684x884.png" alt="">
+          </div>
+        </div>
+        <div class="col-12 col-lg">
+          <div class="text-wrapper">
+            <h3 class="mbr-section-title mbr-fonts-style mb-3 display-1"><strong>JOIN US</strong></h3>
+            <p class="mbr-text mbr-fonts-style display-7">XNA introduces a groundbreaking concept of "memetic
+              wealth
+              creation," where users can earn XNA coins by creating, sharing, and engaging with hilarious memes
+              related
+              to American culture and politics. The more viral your memes go, the more XNA coins you earn,
+              allowing you
+              to grow your digital wealth while spreading laughter across the nation.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section data-bs-version="5.1" class="timeline01 creativem4_timeline01 cid-tDGbKffoPQ mbr-parallax-background"
+    id="timeline01-13">
+    <div class="mbr-overlay" style="opacity: 0.2; background-color: #040023;">
+    </div>
+    <div class="container align-center">
+      <h2 class="mbr-section-title pb-3 mbr-fonts-style display-1"><strong>XNAmap</strong></h2>
+      <h3 class="mbr-section-subtitle pb-5 mbr-fonts-style display-7"></h3>
+      <div class="container timelines-container" mbri-timelines="">
+        <div class="row timeline-element reverse separline">
+          <span class="iconsBackground">
+            <span class="mbr-iconfont mobi-mbri-more-horizontal mobi-mbri"></span>
+          </span>
+          <div class="col-xs-12 col-md-6 align-left">
+            <div class="timeline-text-content">
+              <h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-2">Phase One</h4>
+              <p class="mbr-timeline-text mbr-fonts-style display-7">✅ Launch first version of the website<br>✅ Create
+                all social channels<br>✅ Stealth launch of the $XNA<br>✅ Release our first utility
+                (XNA
+                Bot)<br>- Initial caller groups and private lounges<br>- Grow the telegram to 500 members</p>
+            </div>
+          </div>
+        </div>
+        <div class="row timeline-element separline">
+          <span class="iconsBackground">
+            <span class="mbr-iconfont mobi-mbri-more-horizontal mobi-mbri"></span>
+          </span>
+          <div class="col-xs-12 col-md-6 align-left ">
+            <div class="timeline-text-content">
+              <h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-2">Phase Two</h4>
+              <p class="mbr-timeline-text mbr-fonts-style display-7">- DEX update with logo and links<br>- List on
+                CoinMarketCap<br>- List on various coin listing websites<br>- Crypto.com listing<br>- CoinGecko
+                listing<br>- Grow telegram to 1,000 members</p>
+            </div>
+          </div>
+        </div>
+        <div class="row timeline-element reverse separline">
+          <span class="iconsBackground">
+            <span class="mbr-iconfont mobi-mbri-more-horizontal mobi-mbri"></span>
+          </span>
+          <div class="col-xs-12 col-md-6 align-left">
+            <div class="timeline-text-content">
+              <h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-2">
+                Phase Three</h4>
+              <p class="mbr-timeline-text mbr-fonts-style display-7">- Tier 1 call group collaborations<br>- Advertising
+                banners on listing websites<br>- Meme competitions<br>- 1,000 holder celebration!<br>- List on MEXC
+                Global<br></p>
+            </div>
+          </div>
+        </div>
+        <div class="row timeline-element separline">
+          <span class="iconsBackground">
+            <span class="mbr-iconfont mobi-mbri-more-horizontal mobi-mbri"></span>
+          </span>
+          <div class="col-xs-12 col-md-6 align-left ">
+            <div class="timeline-text-content">
+              <h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-2">
+                Phase Four</h4>
+              <p class="mbr-timeline-text mbr-fonts-style display-7">- Competition with MEXC Global<br>- Worldwide press
+                release<br>- Update to website and socials<br>- Grow to a $10M marketcap!<br>- ByBit Exchange
+                Listing<br>- ON/OFF ramp partner for easy purchase<br>- Updates to XNA Bot</p>
+            </div>
+          </div>
+        </div>
+        <div class="row timeline-element reverse">
+          <span class="iconsBackground">
+            <span class="mbr-iconfont mobi-mbri-more-horizontal mobi-mbri"></span>
+          </span>
+          <div class="col-xs-12 col-md-6 align-left">
+            <div class="timeline-text-content">
+              <h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-2">
+                Phase Five</h4>
+              <p class="mbr-timeline-text mbr-fonts-style display-7">- Surpass $100M market cap<br>- $XNA offline
+                PR
+                /
+                Billboards<br>- YouTuber Collaborations<br>- KuCoin Exchange Listing<br>- 2nd Utility announced<br>-
+                Grow to 10,000 holders!<br></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- <section class="group">
+    <div class="group-title">
+      <h3 class="mbr-section-title mbr-fonts-style mb-3 display-1"><strong>TEAM</strong></h3>
+      <h2 class="h2-color title">TEAM</h2>
+    </div>
+    <div class="group-cen">
+      <div class="group-item">
+        <div class="group-top"><img src="./assets/images/t1.png" loading="lazy"></div>
+        <div class="group-bottom">
+          <p><span class="group-item-name">Captain Nova: The Visionary Navigator</span> <br><br>
+            <span class="fn_animated_text">Lead Developer</span>
+          </p>
+          <p class="text-pc">As the project's visionary navigator, Captain Nova leads the way with a bold and audacious
+            vision for XNA. With their strategic thinking and unwavering determination, Captain Nova charts the
+            course towards new frontiers of meme coin innovation.</p>
+        </div>
+      </div>
+      <div class="group-item">
+        <div class="group-top"><img src="./assets/images/t2.png" loading="lazy"></div>
+        <div class="group-bottom">
+          <p><span class="group-item-name">Commander Orion: The Technical Trailblazer</span><br><br>
+            <span class="fn_animated_text">Creative Director</span>
+          </p>
+          <p class="text-pc">Commander Orion, the technical trailblazer of the team, brings unparalleled expertise in
+            blockchain technology and cryptocurrency development. With their exceptional skills and meticulous attention
+            to detail, Commander Orion ensures that XNA remains at the forefront of technological advancements.
+          </p>
+        </div>
+      </div>
+      <div class="group-item ">
+        <div class="group-top"><img src="./assets/images/t3.png" loading="lazy"></div>
+        <div class="group-bottom">
+          <p><span class="group-item-name">Astral Voyager: The Creative Luminary</span><br><br>
+            <span class="fn_animated_text">Community Manager</span>
+          </p>
+          <p class="text-pc">Astral Voyager, the creative luminary of the team, possesses an extraordinary imagination
+            and artistic flair. With their ability to transform ideas into captivating memes, Astral Voyager adds a
+            touch of magic and wonder to the world of XNA, captivating the hearts and minds of our community.</p>
+        </div>
+      </div>
+    </div>
+  </section> -->
+  <section data-bs-version="5.1" class="footer4 cid-tCW14PSl8c" once="footers" id="footer4-x">
+    <div class="container">
+      <div class="row mbr-white fl-w">
+        <div class="col-6 col-lg-3 cev">
+          <div class="media-wrap col-md-8 col-12">
+            <img src="assets/images/kitty-logo-500x500.png" alt="">
+          </div>
+        </div>
+        <div class="col-12 col-md-6 col-lg-3">
+          <h5 class="mbr-section-subtitle mbr-fonts-style mb-2 display-2" style="text-align: center;">
+            <!-- <strong>About</strong> -->
+          </h5>
+          <p class="mbr-text mbr-fonts-style mb-4 display-4" style="text-align: center;">$XNA 🚀Fueling the Future of
+            Crypto, One Meme at a Time! 🧬</p>
+          <h5 class="mbr-section-subtitle mbr-fonts-style mb-3 display-5"></h5>
+        </div>
+        <style>
+          .cev {
+            display: flex;
+            justify-content: center;
+          }
+          .flex-c {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            /* width: 50%; */
+            /* justify-content: space-around; */
+          }
+          .icon-links-v {
+            display: flex !important;
+            flex-wrap: wrap;
+            /* margin-top: 10%; */
+            margin: 5% 0 0 0;
+            justify-content: space-around;
+            /* justify-self: center; */
+          }
+          .vb {
+            margin: 4% auto !important;
+            display: flex;
+            justify-content: center;
+          }
+          /* .flex-c {
+            margin: 5% 0;
+          } */
+        </style>
+        <div class="col-12 col-md-6 col-lg-3 flex-c">
+          <h5 class="mbr-section-subtitle mbr-fonts-style mb-2 display-2"><strong>Partners</strong> </h5>
+          <div id="icon-ul">
+            <div class="icon-links-v">
+              <a href="https://coinmarketcap.com/currencies/xna/
+              " target="_blank"><img src="img/6.png" alt="" width="50px" height="50px"></a>
+              <a href="https://dexscreener.com/solana/AMvGPNVTjvACeQkqqDUgYggFBKv1XBNcwtAEV8uh1Ev7" target="_blank"><img
+                  src="img/7.png" alt="" width="50px" height="50px"></a>
+              <a href="https://dextools.io/app/en/solana/pair-explorer/AMvGPNVTjvACeQkqqDUgYggFBKv1XBNcwtAEV8uh1Ev7"
+                target="_blank"><img src="img/4.png" alt="" width="50px" height="50px"></a>
+              <a href="https://jup.ag/swap/SOL-AMvGPNVTjvACeQkqqDUgYggFBKv1XBNcwtAEV8uh1Ev7" target="_blank"><img
+                  src="img/5.png" alt="" width="50px" height="50px"></a>
+              <a href="https://birdeye.so/token/AMvGPNVTjvACeQkqqDUgYggFBKv1XBNcwtAEV8uh1Ev7?chain=solana"
+                target="_blank"><img src="img/1.png" alt="" width="50px" height="50px"></a>
+              <a href="https://v2.raydium.io/swap/?inputCurrency=sol&outputCurrency=AMvGPNVTjvACeQkqqDUgYggFBKv1XBNcwtAEV8uh1Ev7&fixed=in"
+                target="_blank"><img src="img/2.png" alt="" width="50px" height="50px"></a>
+              <a href="https://ave.ai/token/AMvGPNVTjvACeQkqqDUgYggFBKv1XBNcwtAEV8uh1Ev7-solana" target="_blank"><img
+                  src="img/3.png" alt="" width="50px" height="50px"></a>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-md-6 col-lg-3 vb">
+          <div id="icon-ul">
+            <div class="d-flex icon-links">
+              <a href="https://t.me/XNACTO" target="_blank" rel="noreferrer">
+                <img src="assets/images/telegram.png" loading="lazy" style="width: 35px;filter: invert(100);">
+              </a>
+              <a href="https://x.com/XNA_CTO" target="_blank" rel="noreferrer" style="margin-left: 20px;">
+                <img src="assets/images/twitter.png" loading="lazy" style="width: 35px;filter: invert(100);">
+              </a>
+              <a href="https://github.com/XNA-CTO" target="_blank" rel="noreferrer" style="margin-left: 20px;">
+                <img src="assets/images/github.png" loading="lazy" style="width: 35px;filter: invert(100);">
+              </a>
+              <!-- <a href="https://medium.com/@elon.mars.coin" target="_blank" rel="noreferrer" style="margin-left: 20px;">
+                <img src="./assets/images/medium.png" loading="lazy" style="width: 35px;">
+              </a>
+              <a href="https://www.reddit.com/user/ELON-MARS-" target="_blank" rel="noreferrer"
+                style="margin-left: 20px;">
+                <img src="./assets/images/reddit.png" loading="lazy" style="width: 35px;">
+              </a>
+              <a href="https://www.youtube.com/@ElonMars-" target="_blank" rel="noreferrer" style="margin-left: 20px;">
+                <img src="./assets/images/youtube.png" loading="lazy" style="width: 35px;">
+              </a> -->
+            </div>
+          </div>
+        </div>
+        <!-- mbr-text item-wrap -->
+        <!-- <div class="col-12 col-md-6 col-lg-3">
+          <h5 class="mbr-section-subtitle mbr-fonts-style mb-2 display-2"><strong>Links</strong></h5>
+          <ul class="list mbr-fonts-style display-4">
+            <li class="mbr-text item-wrap"><a
+                href="https://etherscan.io/address/0x0D7b82Fb82C37Dfe2675022c73af85162E72c491"
+                class="text-black text-primary" target="_blank" style="font-size: 0.8rem;">Etherscan</a><br></li>
+            <li class="mbr-text item-wrap"><a
+                href="https://www.dextools.io/app/en/ether/pair-explorer/0x0D7b82Fb82C37Dfe2675022c73af85162E72c491"
+                class="text-black text-primary" target="_blank">DEX tools</a></li>
+            <li class="mbr-text item-wrap"><a
+                href="https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x0D7b82Fb82C37Dfe2675022c73af85162E72c491"
+                class="text-black text-primary" target="_blank">Uniswap</a></li>
+            <li class="mbr-text item-wrap"><a href="https://t.me/HelloKittyETH" class="text-black text-primary"
+                target="_blank">Telegram</a></li>
+            <li class="mbr-text item-wrap"><a href="https://twitter.com/HelloKitty_ERC" class="text-black text-primary"
+                target="_blank">Twitter</a></li>
+          </ul>
+        </div> -->
+        <section class="col-12 mt-4">
+          <p class="mbr-text mb-0 mbr-fonts-style copyright align-center display-4 " style="font-size: 16px;">
+            <strong>XNA-@outlook.com</strong>
+          </p>
+        </section>
+      </div>
+    </div>
+  </section>
+  <script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/parallax/jarallax.js"></script>
+  <script src="assets/smoothscroll/smooth-scroll.js"></script>
+  <script src="assets/ytplayer/index.js"></script>
+  <script src="assets/theme/js/script.js"></script>
+  <style>
+    .group {
+      color: white !important;
+      /* width: 100%; */
+      /* height: 100%; */
+      /* height: 100vh; */
+      /* margin: 1% 6% 3%; */
+      /* position: relative; */
+      padding-top: 6%;
+      z-index: 1;
+      margin-top: -1px;
+      /* background: url('../images/mainbg.jpg');  */
+      background: #040023;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-evenly;
+      align-items: center;
+      box-sizing: border-box;
+      font-family: 'Montserrat', sans-serif;
+    }
+    .group-title {
+      color: black !important;
+      margin-bottom: 10px;
+      /* font-weight: 700; */
+      /* height: 50px;
+      width: 50px; */
+      /* font-size: 80px; */
+      /* background-color: #e2a5a5; */
+    }
+    .group-top {
+      border: 5px solid white !important;
+      width: 100% !important;
+      height: 40% !important;
+      border-radius: 25px;
+      /* height: 66px; */
+      overflow: hidden;
+      /* background-color: #eebdbd; */
+    }
+    .group-top img {
+      width: 100% !important;
+      height: 100% !important;
+    }
+    .group-cen {
+      width: 100%;
+      height: 100%;
+      /* background-color: #94e735; */
+      /* z-index: 12; */
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+    }
+    .text-pc {
+      color: black;
+    }
+    .group-item {
+      height: 100%;
+      width: 30%;
+      padding: 1% 4%;
+      /* background-color: #41d62a; */
+      display: flex;
+      justify-content: space-between;
+      flex-direction: column;
+    }
+    .group-bottom {
+      width: 100%;
+      margin-top: 10px;
+      flex: 1;
+      /* background-color: #731caa; */
+      padding: 0 5px;
+    }
+    .group-item-name {
+      font-size: 20px;
+      margin-right: 15px;
+      font-weight: 700;
+      color: #df3e00;
+    }
+    .fn_animated_text {
+      color: #df3e00;
+    }
+    /* .group-title{
+    } */
+  </style>
+  <script>
+    if (
+      navigator.userAgent.match(/Mobi/i) ||
+      navigator.userAgent.match(/Android/i) ||
+      navigator.userAgent.match(/iPhone/i)
+    ) {
+      const b = document.querySelectorAll('.icon-links-v a img')
+      console.log(b);
+      b.forEach(element => {
+        element.style.width = '90px'
+      });
+      const a = document.querySelectorAll('.group-item')
+      a.forEach(element => {
+        element.style.width = '85%'
+        element.style.height = '80%'
+      });
+    } else {
+      document.querySelector('.flex-c').style.width = '50%'
+    }
+  </script>
+<center><font size="2">This is the free demo result. For a full version of this website, please go to  <a href="https://www6.waybackmachinedownloader.com/website-downloader-online/scrape-all-files/">Website Downloader</a></font></center></body>
+</html>
